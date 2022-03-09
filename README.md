@@ -30,19 +30,6 @@
 
 
 
-<!-- ---
-
-### 📺 &ensp;Latest YouTube Videos
-
-<!-- YOUTUBE:START -->
-- [Hitchhiker's Guide to Hackathons Ep:0](https://www.youtube.com/watch?v=KOlZNWXv7z8&ab_channel=AkankshaSingh)
-<!-- YOUTUBE:END -->
-
-➡️ &ensp;[More Videos...](https://www.youtube.com/channel/UCa6cGJzXI_xCUKwM3ZaB4kw/videos)
-
---- -->
-
-
 [website]: https://akanksha1212.github.io/
 [twitter]: https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fcoder_jedi&screen_name=coder_jedi
 [youtube]: https://www.youtube.com/channel/UCa6cGJzXI_xCUKwM3ZaB4kw?sub_confirmation=1
