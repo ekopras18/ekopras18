@@ -1,7 +1,7 @@
-<h1 align="center"> Hi 👋, I'm <a href="https://www.youtube.com/channel/UCa6cGJzXI_xCUKwM3ZaB4kw">Akanksha Singh!</a></h1>
-<h3 align="center">Flutter Dev | Hackathon Aficionado </h3>
+<h1 align="center"> Hi 👋, I'm <a href="https://www.instagram.com/ekopras18/">Eko Prasetio!</a></h1>
+<h3 align="center">Full-Stack Developers | Optima RnD Dev </h3>
 
-[![Youtube](https://img.shields.io/static/v1?label=CoderJedi&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
+[![Instagram](https://cdn-icons.flaticon.com/png/512/3621/premium/3621435.png?token=exp=1646821223~hmac=8dd5c2e0abe35d3fc82ce6b878ef9dd0)][instagram]
 [![Twitter Follow](https://img.shields.io/twitter/follow/coder_jedi?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![GitHub followers](https://img.shields.io/github/followers/Akanksha1212?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: AkankshaSingh](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/AkankshaSingh/)][linkedin]
@@ -48,7 +48,7 @@
 [youtube]: https://www.youtube.com/channel/UCa6cGJzXI_xCUKwM3ZaB4kw?sub_confirmation=1
 [linkedin]: https://linkedin.com/in/Akanksha1212
 [github]: https://github.com/Akanksha1212
-[instagram]: https://www.instagram.com/akankshasingh1212
+[instagram]: https://www.instagram.com/ekopras18/
 [medium]: https://medium.com/@coderjedi
 [email]: mailto:singhakanksha221b@gmail.com
 
