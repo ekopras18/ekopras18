@@ -1,7 +1,7 @@
 <h1 align="center"> Hi 👋, I'm <a href="https://www.instagram.com/ekopras18/">Eko Prasetio!</a></h1>
 <h3 align="center">Full-Stack Developers | Optima RnD Dev </h3>
 
-[![Instagram](https://cdn-icons.flaticon.com/png/512/3621/premium/3621435.png?token=exp=1646821223~hmac=8dd5c2e0abe35d3fc82ce6b878ef9dd0)][instagram]
+<!-- [![Instagram](https://cdn-icons.flaticon.com/png/512/3621/premium/3621435.png?token=exp=1646821223~hmac=8dd5c2e0abe35d3fc82ce6b878ef9dd0)][instagram]
 [![Twitter Follow](https://img.shields.io/twitter/follow/coder_jedi?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![GitHub followers](https://img.shields.io/github/followers/Akanksha1212?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: AkankshaSingh](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/AkankshaSingh/)][linkedin]
@@ -19,7 +19,7 @@
 [<img align="left" alt="Akanksha Singh | YouTube" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/YouTube_full-color_icon_%282017%29.svg/640px-YouTube_full-color_icon_%282017%29.svg.png" />][youtube]
 [<img align="left" alt="Akanksha Singh | Twitter" width="28px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/934px-Twitter-logo.svg.png" />][twitter]
 [<img align="left" alt="Akanksha Singh | LinkedIn" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
-
+ -->
 <br />
 <br />
 
@@ -30,7 +30,7 @@
 
 
 
----
+<!-- ---
 
 ### 📺 &ensp;Latest YouTube Videos
 
@@ -40,7 +40,7 @@
 
 ➡️ &ensp;[More Videos...](https://www.youtube.com/channel/UCa6cGJzXI_xCUKwM3ZaB4kw/videos)
 
----
+--- -->
 
 
 [website]: https://akanksha1212.github.io/
