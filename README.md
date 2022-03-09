@@ -1,4 +1,4 @@
-[![Youtube](https://img.shields.io/static/v1?label=CoderJedi&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
+<!-- [![Youtube](https://img.shields.io/static/v1?label=CoderJedi&message=Subscribe&logo=YouTube&color=FF0000&style=for-the-badge)][youtube]
 [![Twitter Follow](https://img.shields.io/twitter/follow/coder_jedi?color=1DA1F2&label=Followers&logo=twitter&style=for-the-badge)][twitter]
 [![GitHub followers](https://img.shields.io/github/followers/Akanksha1212?logo=GitHub&style=for-the-badge)][github]
 [![Linkedin: AkankshaSingh](https://img.shields.io/badge/-CONNECT-blue?style=for-the-badge&logo=Linkedin&link=https://www.linkedin.com/in/AkankshaSingh/)][linkedin]
@@ -18,7 +18,7 @@
 [<img align="left" alt="Akanksha Singh | LinkedIn" width="28px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 
 <br />
-<br />
+<br /> -->
 
 ### Languages and Tools
 
