@@ -11,4 +11,6 @@
 
 ##
 <h3><b><samp>Github Profile Trophy</samp></b></h3>
+<div style="text-align: center;">
 <img src="https://github-profile-trophy.vercel.app/?username=ekopras18&column=8&theme=onedark&no-frame=true&no-bg=true"/>
+</div>
