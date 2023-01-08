@@ -8,3 +8,7 @@
   <img  width="400" src="https://github-readme-stats.vercel.app/api?username=ekopras18&theme=onedark&hide_border=false&include_all_commits=false&count_private=false"/>&nbsp;
       <img  width="400" src="https://github-readme-streak-stats.herokuapp.com?user=ekopras18&theme=onedark&mode=weekly&hide_border=false" />
 </p>
+
+##
+<h3><b><samp>Github Profile Trophy</samp></b></h3>
+<img src="https://github-profile-trophy.vercel.app/?username=ekopras18&column=8&theme=onedark&no-frame=true&no-bg=true"/>
