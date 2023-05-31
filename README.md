@@ -9,14 +9,14 @@
       <img  width="400" src="https://github-readme-streak-stats.herokuapp.com?user=ekopras18&theme=onedark&mode=weekly&hide_border=false" />
 </p> -->
 
-* [![Next][Next.js]][Next-url]
+<!-- * [![Next][Next.js]][Next-url]
 * [![React][React.js]][React-url]
 * [![Vue][Vue.js]][Vue-url]
 * [![Angular][Angular.io]][Angular-url]
 * [![Svelte][Svelte.dev]][Svelte-url]
 * [![Laravel][Laravel.com]][Laravel-url]
 * [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![JQuery][JQuery.com]][JQuery-url] -->
 
 
 ##
