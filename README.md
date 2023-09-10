@@ -19,9 +19,9 @@
 * [![JQuery][JQuery.com]][JQuery-url] -->
 
 
-##
-<h3><b><samp>Github Profile Trophy</samp></b></h3>
-<!-- <div align="center">
+
+<!--<h3><b><samp>Github Profile Trophy</samp></b></h3>
+<div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ekopras18&column=8&theme=onedark&no-frame=true&no-bg=true"/>
 </div> -->
 
