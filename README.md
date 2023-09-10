@@ -21,9 +21,9 @@
 
 ##
 <h3><b><samp>Github Profile Trophy</samp></b></h3>
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=ekopras18&column=8&theme=onedark&no-frame=true&no-bg=true"/>
-</div>
+</div> -->
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
